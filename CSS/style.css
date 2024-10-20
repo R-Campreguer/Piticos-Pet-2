@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+#logo{
+    width: 140px;
+    height: 90px;
+   /* margin-right: 600px;
+    margin-right: 1200px;*/ 
+    margin-left: -250px;    
+}
+header{
+    width: 100%;
+    background-color: #00202b;
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+}
+#mapa{
+    width: 60px;
+    height: 65px;
+    margin-left: 50px;
+  /* margin-left: 0px;
+    margin-right: 600px; 
+    margin-bottom: 12.5px;*/
+}
+#divBusca{
+   /* margin-left: 550px;
+    margin-bottom: 50px; */
+    background-color:#2F4F4F;
+    border:solid 1px;
+    border-radius:15px;
+    width: 500px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+  /*  margin-bottom: -0px; */
+
+    margin-left: -0;
+  }
+  
+  #txtBusca{
+    
+    background-color:transparent;
+    padding-left:5px;
+    font-style:italic;
+    font-size:18px;
+    border:none;
+    height:32px;
+    width:460px;
+  }
+#btnBusca{
+    width: 25px;
+    height: 25px;
+}
+#direito{
+    margin-right: -200px;
+}
+#esquerdo{
+    display: flex;
+    align-items: center; 
+    justify-content: center;
+    margin-right: 600px;
+}
+#tele{
+    width: 50px;
+    height: 50px;
+}
+#icon{
+    width: 70px;
+    height: 60px;
+    margin-left: 5px;
+}
+#compra{
+    width: 55px;
+    height: 50px;
+}
+.top,li{
+    font-size: 50px;
+    padding-right: 16px;
+    padding-left: 16px;
+    border: solid 2.5px black;
+    
+}
+#navegacao {
+    background-color: #e0e0e0;
+    margin-top: auto;
+    text-decoration: none;
+  }
+#topo{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+}
+.nav{
+    text-decoration: none;
+    color: black;
+}
+#ativo{
+    background-color:#949494 ;
+}
+li{
+    list-style: none;
+    color:black;
+    text-decoration: none;
+    
+}
+
